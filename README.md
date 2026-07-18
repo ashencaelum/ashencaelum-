@@ -5,4 +5,4 @@
 </div>
 <br/>
 <div align="center">
-$${this is one of my arts}$$
+
