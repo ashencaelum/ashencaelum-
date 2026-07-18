@@ -5,4 +5,3 @@
 </div>
 <br/>
 <div align="center">
-![stars collide](
